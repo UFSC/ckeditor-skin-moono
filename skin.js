@@ -311,6 +311,6 @@ CKEDITOR.skin.chameleon = ( function() {
 	for ( var i = 0; i < icons.length; i++ ) {
 		CKEDITOR.skin.addIcon( icons[ i ], iconsFolder + icons[ i ] + '.png' );
 	}
-} )();
+} );
 
 // %REMOVE_END%
